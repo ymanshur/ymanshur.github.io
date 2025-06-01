@@ -1,2 +1,3 @@
 # ymanshur.github.io
-A web to showcase my portfolio
+
+Look at my [Portfolio](https://ymanshur.github.io/portfolio)
