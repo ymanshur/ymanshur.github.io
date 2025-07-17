@@ -1,0 +1,44 @@
+# Site settings
+title: Yusuf Manshur
+email: ymanshur@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Seasoned software engineer with over five years of experience designing and developing 
+  scalable transaction processing in distributed environments.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ymanshur.github.io" # the base hostname & protocol for your site
+twitter_username: ymanshur
+github_username: ymanshur
+linkedin_username: ymanshur
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - about.md
+  - portfolio.md
+  - posts.md
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/ymanshur/" }
+    - { platform: medium, user_url: "https://medium.com/@ymanshur" }
+    - { platform: substack, user_url: "https://substack.com/@yusufmanshur869537" }
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
