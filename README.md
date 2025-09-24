@@ -1,14 +1,9 @@
-# About Me
-
 > **Never settle for less**
 > 
 > "_...for God loves those who strive for excellence in all they do."_
 
-I'm a seasoned software engineer with over five years of experience designing and developing scalable **transaction processing** in **distributed environments** and specializing in orchestrating cross-system transaction workflows and implementing robust message-driven architecture and reactive solutions.
-
-I collaborate effectively with engineering, product, finance, and business teams, ensuring technical solutions align with strategic objectives.
-
-## Portfolio
+I'm a **seasoned software engineer** with over five years of experience designing and developing scalable, high-throughput backend systems in distributed 
+environments. Adept at providing **orchestration**, **integration** systems, and **dashboard monitoring**. Consistently leverages engineering best practices to deliver robust and reactive solutions and collaborates effectively with Data, Product, Finance, and Sales teams, ensuring technical solutions align with business strategic objectives.
 
 You can find my full portfolio here: [ymanshur.github.io/portfolio](https://ymanshur.github.io/portfolio/)
 
